@@ -13,6 +13,8 @@ public class ContactManager {
     public ContactManager() {
     }
     
+    // adding new stuff to the contact manager lets see if it workes
+    
     public Contact[] contactList;
 
     /*
