@@ -6,6 +6,8 @@ package com.mycompany.ice4;
 
 // stinky stinky
 
+// this is a comment made on the FRIEND branch
+
 /**
  *
  * @author jeffpollock
